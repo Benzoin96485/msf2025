@@ -13,8 +13,8 @@ dependencies:
   - sphinx-design
   - sphinx-copybutton
 
-
-
+  - numpy
+  - matplotlib
 
     # Pip-only installs
   - pip:

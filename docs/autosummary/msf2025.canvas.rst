@@ -1,0 +1,6 @@
+﻿msf2025.canvas
+==============
+
+.. currentmodule:: msf2025
+
+.. autofunction:: canvas
